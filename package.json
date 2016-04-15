@@ -1,0 +1,25 @@
+{
+  "name": "hackoverflow-getting-started",
+  "version": "0.0.1",
+  "description": "A sample Node.js app for HackOverflow",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.13.3"
+  },
+  "engines": {
+    "node": "4.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-getting-started"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
