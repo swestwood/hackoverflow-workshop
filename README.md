@@ -8,7 +8,7 @@ Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https
 
 ```sh
 $ git clone git@github.com:swestwood/hackoverflow-workshop.git
-$ cd node-js-getting-started
+$ cd hackoverflow-workshop
 $ npm install
 $ npm start
 ```
