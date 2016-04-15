@@ -1,4 +1,4 @@
-# HackOverflow getting started
+# HackOverflow Getting Started
 
 A barebones Node.js app for a hackathon workshop, modified from the Heroku sample app from [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs).
 
@@ -7,7 +7,7 @@ A barebones Node.js app for a hackathon workshop, modified from the Heroku sampl
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
 
 ```sh
-$ git clone git@github.com:heroku/node-js-getting-started.git
+$ git clone git@github.com:swestwood/hackoverflow-workshop.git
 $ cd node-js-getting-started
 $ npm install
 $ npm start
