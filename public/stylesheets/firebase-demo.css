@@ -1,0 +1,7 @@
+
+.message-list .chat-username {
+	color: orange;
+	font-weight: bold;
+	padding-right: 10px;
+	display: inline-block;
+}
