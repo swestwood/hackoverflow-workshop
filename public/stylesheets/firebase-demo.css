@@ -5,3 +5,20 @@
 	padding-right: 10px;
 	display: inline-block;
 }
+
+.rectangle {
+    background-color: purple;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+}
+
+.rectangle-container {
+    height: 500px;
+    width: 800px;
+    background-color: #CEFEF5;
+    border: 1px solid #777;
+}
+.rectangle {
+    position: absolute;
+}
